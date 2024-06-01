@@ -1,0 +1,12 @@
+Processed,Method,URI
+true,GET,http://167.172.75.216/sitemap.xml
+true,GET,http://167.172.75.216/robots.txt
+true,GET,http://167.172.75.216/register
+true,GET,http://167.172.75.216/login
+true,GET,http://167.172.75.216/css/main.css
+true,GET,http://167.172.75.216/js/login.js
+true,GET,http://167.172.75.216/css/register.css
+true,GET,http://167.172.75.216/css/login.css
+true,GET,http://167.172.75.216/js/register.js
+true,GET,"http://167.172.75.216/register (password,username)"
+true,GET,"http://167.172.75.216/login (password,username)"
